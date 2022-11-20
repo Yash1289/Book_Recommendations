@@ -4,18 +4,7 @@
 
 # Book Recommender System
 
-Recommendation systems are widely used today to recommend products 
-to users based on their interests. A recommendation system is one of the
-strongest systems for increasing profits by retaining more users in a
-very big competition. Online book reading and selling websites like
-Kindle and Goodreads compete against each other on many factors.
-One of those important factors is their book recommendation system. A
-book recommendation system is designed to recommend books of
-interest to the buyer. In this project using a total of 3 datasets containing
-the needed infromation we are building one book recommender system which 
-will recommend new books for the users present in our dataset.
-
-
+Recommendation systems are widely used today to recommend products to users based on their interests. A recommendation engine is one of the most vital systems for increasing profits by retaining more users in a big competition. Online book reading and selling websites like Kindle and Goodreads compete against each other on many factors. One of those crucial factors is their book recommendation system. A book recommendation system is designed to recommend books of interest to the buyer. In this project, I have built a Book Recommender system using data extracted from books selling websites to recommend similar books to the reader based on his interest
 
 
 ## Install
@@ -99,14 +88,14 @@ having 3 features
 
 ## 🛠 Algorithms Used
 Collaborative Filtering , Singular Value Decomposition , Gradient Descent,
-K nearest neighbors , 
+K nearest neighbors 
 ## Authors
 
 - [@Yash1289](https://github.com/Yash1289)
 
 
 ## 🚀 About Me
-I'm an aspriring data scientist who loves to `deeply` work with data
+I'm an aspiring Data Scientist who is adept in analyzing and interpreting large datasets and developing new forecasting models. I have strong attention to detail and a significant ability to work in team environments.
 
 
 ## 🔗 Links
